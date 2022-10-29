@@ -1,0 +1,16 @@
+{
+"name": "Bnk69wallet",
+"theme": "Bnk69 wallet",
+"version": "9.6.1",
+"description": "Bnk69 wallet สมัครเว็บไซต์สล็อตเว็บตรง ระบบออโต้ รับโบนัสเครดิตฟรี",
+"keywords": [
+"Bnk69 wallet",
+"Bnk69 wallet เครดิตฟรี",
+"Bnk69 wallet ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/Bnk69wallet",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
